@@ -26,7 +26,7 @@ pkg install git -y
 pkg install lolcat
 ```
 ```bash
-git clone https://github.com/krishealty/ducky-virus
+git clone https://github.com/OfficialBlackMamba/ducky-virus
 ```
 ```bash
 cd $HOME
@@ -50,7 +50,7 @@ sudo apt-get update && pkg upgrade -y
 sudo apt-get install git -y
 ```
 ```bash
-git clone https://github.com/krishealty/ducky-virus
+git clone https://github.com/OfficialBlackMamba/ducky-virus
 ```
 ```bash
 cd HXP-DUCKY
@@ -59,5 +59,3 @@ cd HXP-DUCKY
 bash main.sh
 ```
 
-## ScreenShots :- 
-  ![Screenshot_20220613-103741_zoom](https://user-images.githubusercontent.com/70594016/173283913-54b6a34b-e3e8-4d9e-a906-56dc08ffc44e.png)
